@@ -11,6 +11,7 @@
 
 <script>
 // 我创造过一条分支dev
+// 我创造过第二条分支feature1
 import store from './vuex/store'
 
 export default {
