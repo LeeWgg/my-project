@@ -10,6 +10,7 @@
 </template>
 
 <script>
+// 我创造过一条分支dev
 import store from './vuex/store'
 
 export default {
