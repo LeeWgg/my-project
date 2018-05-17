@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <p>vue框架测试</p>
     <p>{{ count }}</p>
     <p>
       <button @click="increment">+</button>
