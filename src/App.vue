@@ -11,6 +11,7 @@
 
 <script>
 // 我创造过一条分支dev
+// 我想制造冲突1
 import store from './vuex/store'
 
 export default {
