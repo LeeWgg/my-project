@@ -11,11 +11,8 @@
 
 <script>
 // 我创造过一条分支dev
-<<<<<<< HEAD
 // 我想制造冲突1
-=======
 // 我创造过第二条分支feature1
->>>>>>> feature1
 import store from './vuex/store'
 
 export default {
